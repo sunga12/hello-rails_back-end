@@ -2,12 +2,6 @@
 
 <a name="readme-top"></a>
 
-<div align="center">
-<h2>ER Diagrma</h2>
-<img width="741" alt="Screenshot 2023-09-25 at 12 07 22" src="./ER Diagram Final capstone.PNG">
-
-</div>
-
 # 📗 Table of Contents
 
 - [Hello Rails Back End](#hello-rails-back-end)
