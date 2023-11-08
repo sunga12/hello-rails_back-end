@@ -74,12 +74,10 @@ bundle install
 ```
 
 ```
-git clone https://github.com/hmunish/final-capstone-frontend.git
+git clone https://github.com/sunga12/hello-react-front-end.git
 cd hello-react-front-end
 npm install
 ```
-
-
 
 ### Run rails
 
@@ -129,6 +127,7 @@ rails s
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Add extra styling
+- Add more languages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
